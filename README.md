@@ -26,9 +26,9 @@ The response will be a prompt for the nine letters of an instance of the Target 
 
 The Target Puzzle game provides the player with a collection of nine letters arranged in a grid like the following.
 
-| S | I | S |
-| A | **N** | A |
-| E | C | M |
+| S | I | S |  
+| A | **N** | A |  
+| E | C | M |  
 
 The objective is to form as many words as possible that use each given letter at most once. Every accepted word must follow one additional condition: they must use the centre letter.
 
